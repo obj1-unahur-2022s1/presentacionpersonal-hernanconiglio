@@ -1,4 +1,5 @@
 # Presentación de Programación con Objetos I de Hernán Coniglio para el ejemplo del encuentro 2-4-22
+# Este cambio todavía no se tiene que ver en github
 - [x] Universidad Nacional de Hurlingham- [UNAHUR](https://unahur.edu.ar)
 - [x] Instituto de Tecnología e Ingeniería 
 - [x] Licenciatura en Informática
